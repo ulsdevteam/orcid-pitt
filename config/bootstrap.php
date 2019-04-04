@@ -43,6 +43,7 @@ use Cake\Mailer\Email;
 use Cake\Mailer\TransportFactory;
 use Cake\Utility\Inflector;
 use Cake\Utility\Security;
+Plugin::load('CakeDC/OracleDriver', ['bootstrap' => true]);
 
 /**
  * Uncomment block of code below if you want to use `.env` file during development.
