@@ -6,6 +6,7 @@ use App\Controller\AppController;
 /**
  * OrcidBatches Controller
  *
+<<<<<<< HEAD
  * @property \App\Model\Table\OrcidBatchesTable $OrcidBatches
  *
  * @method \App\Model\Entity\OrcidBatch[]|\Cake\Datasource\ResultSetInterface paginate($object = null, array $settings = [])

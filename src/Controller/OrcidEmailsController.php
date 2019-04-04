@@ -6,6 +6,7 @@ use App\Controller\AppController;
 /**
  * OrcidEmails Controller
  *
+<<<<<<< HEAD
  * @property \App\Model\Table\OrcidEmailsTable $OrcidEmails
  *
  * @method \App\Model\Entity\OrcidEmail[]|\Cake\Datasource\ResultSetInterface paginate($object = null, array $settings = [])
